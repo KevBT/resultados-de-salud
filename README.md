@@ -14,8 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=resultados-de-salud-bcc4ga1z5-kevbt.vercel.app&projectName=resultados-de-salud&s=https%3A%2F%2Fgithub.com%2FKevBT%2Fresultados-de-salud&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1)
 
 ### Built with
 
