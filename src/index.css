@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding:0;
+  margin:0;
+}
+
+body{
+  display: grid;
+  place-content: center;
+  height:100vh;
+}
+
+/* COLORES */
+
+:root{
+  --morado: #6845fd;
+  --moradoOscuro:#4d25c8;
+  --azul: #3630e7;
+  --azulOscuro:#4835eb;
+  --negro:#303a58;
+}
+
+/* FUENTES */
+
+@font-face {
+  font-family: 'HankenGroteskBold';
+  src: url('./assets/fonts/static/HankenGrotesk-Bold.ttf');
+}
+@font-face {
+  font-family: 'HankenGroteskExtraBold';
+  src: url('./assets/fonts/static/HankenGrotesk-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'HankenGroteskMedium';
+  src: url('./assets/fonts/static/HankenGrotesk-Medium.ttf');
+}
+@font-face {
+  font-family: 'HankenStatic';
+  src: url('./assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
+}
